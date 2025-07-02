@@ -17,12 +17,12 @@ This project demonstrates the process of extracting essential stock data from we
 ### Installation
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YourUsername/YourRepoName.git](https://github.com/YourUsername/YourRepoName.git)
+    git clone [[https://github.com/YourUsername/YourRepoName.git](https://github.com/YourUsername/YourRepoName.git](https://github.com/aitechrifat/stock-visualization-project.git))
     ```
-    (Replace `YourUsername` and `YourRepoName` with your actual GitHub username and repository name.)
+    
 2.  **Navigate to the project directory:**
     ```bash
-    cd YourRepoName
+    cd stock-visualization-project
     ```
 3.  **Install the required libraries** (if not already installed, as listed in Prerequisites).
 
